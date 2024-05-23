@@ -1,0 +1,12 @@
+.clock {
+  width: 40vh;
+  font-size: 80px;
+  margin-left: 780px;
+  font-family: Arial, sans-serif;
+  margin-top: 300px;
+  box-sizing: border-box;
+  color: azure;
+  background-color: rgb(136, 6, 212);
+  border-radius: 10px;
+  text-align: center;
+}
